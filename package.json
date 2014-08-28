@@ -1,0 +1,22 @@
+{
+  "name": "forelog",
+  "version": "0.0.0",
+  "description": "output log to fore-contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qsat/forelog.git"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": "qsat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qsat/forelog/issues"
+  },
+  "homepage": "https://github.com/qsat/forelog"
+}

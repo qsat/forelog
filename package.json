@@ -1,6 +1,6 @@
 {
   "name": "forelog",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "output log to fore-contents",
   "main": "index.js",
   "scripts": {
